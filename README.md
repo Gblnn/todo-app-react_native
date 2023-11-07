@@ -3,7 +3,7 @@
  A simple to-do list application built with react native
  
  ## Screenshots
- <p align = "center", style="width:200px;"><img src = "Screenshots/todo1.PNG"/></p>
+ <p align = "center"><img src = "Screenshots/todo1.PNG"/></p>
  <p align = "center"><img src = "Screenshots/todo2.PNG"/></p>
  
  ## Developmental Preview
